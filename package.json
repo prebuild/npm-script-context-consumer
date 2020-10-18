@@ -1,0 +1,28 @@
+{
+  "name": "npm-script-context-consumer",
+  "version": "0.0.0",
+  "description": "Testing script context in an app or dependent package",
+  "license": "MIT",
+  "scripts": {
+    "install": "echo from-consumer && npm-script-context"
+  },
+  "dependencies": {
+    "npm-script-context": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prebuild/npm-script-context-consumer.git"
+  },
+  "homepage": "https://github.com/prebuild/npm-script-context-consumer",
+  "keywords": [
+    "prebuild",
+    "build",
+    "npm",
+    "script",
+    "install",
+    "environment"
+  ],
+  "engines": {
+    "node": ">=10"
+  }
+}
