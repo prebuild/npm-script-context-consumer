@@ -1,5 +1,8 @@
 # npm-script-context-consumer
 
+> [!IMPORTANT]
+> This module is deprecated and no longer maintained.
+
 **Testing [`npm-script-context`](https://github.com/prebuild/npm-script-context) in an app or dependent package.**
 
 [![npm status](http://img.shields.io/npm/v/npm-script-context-consumer.svg)](https://www.npmjs.org/package/npm-script-context-consumer)
